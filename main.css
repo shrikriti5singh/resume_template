@@ -1,0 +1,15 @@
+.leftPane{
+/*    background-color: aqua;*/
+    font-family: "Adobe Garamond Pro";
+    font-size: large;
+    padding-top: 3px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(214, 238, 255);
+}
+.rightPane{
+    font-family: "Georgia";
+    font-size: medium;
+    border-left: solid 1px white;
+}
